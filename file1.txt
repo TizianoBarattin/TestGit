@@ -1,5 +1,4 @@
 
 
 riga 1
-riga 2
-riga 3 modificato da master branch
+riga 2 modificata da branch1riga 3 modificato da master branch
